@@ -87,9 +87,9 @@ From sale_id = 7, we can conclude that Apple was sold for 9000 in the year 2011.
 ## Solution
 
 **Language:** SQL  
-**Runtime:** 109 ms  
-**Memory:** 0B  
-**Submitted:** 2026-06-27T04:46:16.850Z  
+**Runtime:** 1160 ms (beats 97.78%)  
+**Memory:** 0B (beats 100.00%)  
+**Submitted:** 2026-06-27T04:46:29.618Z  
 
 ```sql
 select product_name, year, price 
