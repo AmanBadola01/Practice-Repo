@@ -1,16 +1,49 @@
-# Practice-Repo
-A collection of LeetCode questions to ace the coding interview! 
+<div align="center">
 
+# 🧠 Coding Solutions
 
-<!---LeetCode Topics Start-->
-# LeetCode Topics
-## Database
-|  |
-| ------- |
-| [0584-find-customer-referee](https://github.com/AmanBadola01/Practice-Repo/tree/master/0584-find-customer-referee) |
-| [0595-big-countries](https://github.com/AmanBadola01/Practice-Repo/tree/master/0595-big-countries) |
-| [1068-product-sales-analysis-i](https://github.com/AmanBadola01/Practice-Repo/tree/master/1068-product-sales-analysis-i) |
-| [1378-replace-employee-id-with-the-unique-identifier](https://github.com/AmanBadola01/Practice-Repo/tree/master/1378-replace-employee-id-with-the-unique-identifier) |
-| [1683-invalid-tweets](https://github.com/AmanBadola01/Practice-Repo/tree/master/1683-invalid-tweets) |
-| [1757-recyclable-and-low-fat-products](https://github.com/AmanBadola01/Practice-Repo/tree/master/1757-recyclable-and-low-fat-products) |
-<!---LeetCode Topics End-->
+![Total Solved](https://img.shields.io/badge/Total_Solved-3-blue?style=for-the-badge)
+![Streak](https://img.shields.io/badge/Streak-1_days-orange?style=for-the-badge)
+![Last Synced](https://img.shields.io/badge/Last_Synced-27--6--2026-green?style=for-the-badge)
+
+> 🚀 Auto-synced by [**PushMyCode**](https://github.com/PushMyCode-HQ) — solve it, forget it, it's on GitHub.
+
+</div>
+
+---
+
+## 📊 Stats
+
+| Difficulty | Solved |
+|:---:|:---:|
+| 🟢 Easy | **3** |
+| 🟡 Medium | **0** |
+| 🔴 Hard | **0** |
+| **Total** | **3** |
+
+## 🛠️ Languages
+
+| Language | Solutions |
+|:---:|:---:|
+| SQL | **3** |
+
+## 📂 Repository Structure
+
+```
+📦 coding-solutions/
+├── leetcode/
+│   ├── easy/
+│   ├── medium/
+│   └── hard/
+├── hackerrank/
+├── codechef/
+└── gfg/
+```
+
+---
+
+<div align="center">
+
+*Last updated: 2026-06-27* · Powered by [**PushMyCode**](https://github.com/PushMyCode-HQ)
+
+</div>
